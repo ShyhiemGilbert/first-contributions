@@ -1,6 +1,7 @@
 # Contributors
 
 - [Ravindu Miyuranga](https://github.com/ravindugm)
+- [Shyhiem Gilbert](https://github.com/ShyhiemGilbert)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
 - Roneal Denila
 - [Shreshtha Gupta](https://github.com/shrey-101)
